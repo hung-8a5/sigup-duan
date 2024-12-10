@@ -1,0 +1,41 @@
+#bar {
+  height: 100px;
+  background-color: rgb(36, 128, 213);
+  color: white;
+  font-size: 40px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#na {
+  font-size: 30px;
+  background-color: rgb(224, 35, 104);
+  width: 15%;
+  float: right;
+  padding: 4px;
+}
+#bar2 {
+  margin: top;
+  margin: auto;
+  /* đưa ra giữa */
+  text-align: center;
+  padding: 55px;
+  font-size: 25px;
+  /* phông chữ */
+  font-family: Arial, Helvetica, sans-serif;
+}
+#text {
+  height: 25px;
+  width: 250px;
+  border-radius: 4px;
+}
+#button {
+  width: 255px;
+  height: 30px;
+  /* viền */
+  border-radius: 4px;
+  /* chữ đậm */
+  font-weight: bold;
+  /* xoá viền */
+  border: none;
+  background-color: rgb(30, 185, 232);
+  color: white;
+}
